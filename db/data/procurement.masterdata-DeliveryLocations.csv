@@ -1,0 +1,5 @@
+ID,locationCode,locationName,address,city,state,postalCode,country,createdAt,createdBy,modifiedAt,modifiedBy,status
+f1111111-1111-4111-8111-111111111111,CHN01,Chennai Office,OMR,Chennai,Tamil Nadu,600096,India,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE
+f2222222-2222-4222-8222-222222222222,BLR01,Bangalore Office,Whitefield,Bangalore,Karnataka,560066,India,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE
+f3333333-3333-4333-8333-333333333333,HYD01,Hyderabad Office,HITEC City,Hyderabad,Telangana,500081,India,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE
+f4444444-4444-4444-8444-444444444444,MUM01,Mumbai Office,Andheri East,Mumbai,Maharashtra,400069,India,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE

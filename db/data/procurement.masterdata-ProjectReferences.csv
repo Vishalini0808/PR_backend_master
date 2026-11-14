@@ -1,0 +1,5 @@
+ID,projectCode,projectName,description,createdAt,createdBy,modifiedAt,modifiedBy,status
+91111111-1111-4111-8111-111111111111,PRJ001,ERP Implementation,ERP implementation project,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE
+92222222-2222-4222-8222-222222222222,PRJ002,Office Expansion,Office infrastructure expansion,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE
+93333333-3333-4333-8333-333333333333,PRJ003,IT Modernization,IT modernization initiative,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE
+94444444-4444-4444-8444-444444444444,PRJ004,HR Automation,HR process automation,2026-01-01T09:00:00Z,system,2026-01-01T09:00:00Z,system,ACTIVE
