@@ -124,8 +124,8 @@ entity ApprovalMatrix : cuid, managed, HasStatus {
 
 }
 
-annotate ApprovalMatrix with
-    @assert.unique.matrixCode: [matrixCode];
+// annotate ApprovalMatrix with
+//     @assert.unique.matrixCode: [matrixCode];
 
 
 // DELIVERY LOCATIONS
@@ -146,6 +146,24 @@ entity DeliveryLocations : cuid, managed, HasStatus {
 annotate DeliveryLocations with
     @assert.unique.locationCode: [locationCode];
 
+
+
+// EMPLOYEE 
+entity ApproverAssignment : cuid, managed, HasStatus {
+
+    employeeId              : String(50) not null;
+    employeeName            : String(100) not null;
+    employeeEmail           : String(150) not null;
+
+    approverRole             : String(50) not null;
+
+    organizationalUnit : Association to one OrganizationalUnits
+        not null @assert.target;
+
+    purchaseCategory   : Association to one PurchaseCategories
+        @assert.target;
+
+}
 
 // PROJECT REFERENCES
 

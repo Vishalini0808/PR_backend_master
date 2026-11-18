@@ -1,0 +1,1142 @@
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:50:56.976786] Updated app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d ({"lifecycle" => {"data" => {"buildpacks" => ["nodejs_buildpack"]}, "type" => "buildpack"}}) (STDOUT, API)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:50:57.074553] Updating process: "web" (STDOUT, API)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:06.148131] Uploading app package for app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d (STDOUT, API)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:06.314494] Updated app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d ({"environment_variables" => "[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:16.742931] Creating build for app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d (STDOUT, API)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:17.240103] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:17.284281] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:17.284389] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:18.021162] Security group rules were updated (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:18.076947] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.205041] Downloading build artifacts cache... (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.205754] Downloading app package... (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.281921] Downloaded build artifacts cache (225B) (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.572029] Downloaded app package (2.4M) (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.719426] -----> Nodejs Buildpack version 1.9.7 (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.834047] -----> Bootstrapping python (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.834287] -----> Installing python 3.13.18 (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.834316] Copy [/tmp/buildpacks/e692b33510ec4c3a/dependencies/19ba5035b2de64a4656a3359a44a66ca/python_3.13.18_linux_x64_cflinuxfs4_86d7d323.tgz] (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855455] -----> Installing binaries (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855561] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855588] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855687] -----> Installing node 24.22.1 (STDOUT, STG)#
+#2026 11 17 06:51:26.221#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1638#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855966] Copy [/tmp/buildpacks/e692b33510ec4c3a/dependencies/81943ffafa7adf07ff6ffc6aaa402b41/node_24.22.1_linux_x64_cflinuxfs4_e062d949.tgz] (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:27.838812] Using default npm version: 11.19.1 (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:27.838849] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:27.839061] Copy [/tmp/buildpacks/e692b33510ec4c3a/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.334766] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.334801] -----> Creating runtime environment (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337319] NODE_ENV=production (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337355] NODE_HOME=/tmp/contents1019461730/deps/0/node (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337360] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337363] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337367] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337372] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337375] -----> Building dependencies (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337377] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337388] Rebuilding any native modules (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.962395] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.034147] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.584417] up to date in 453ms (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.584452] 4 packages are looking for funding (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.584458] run `npm fund` for details (STDOUT, STG)#
+#2026 11 17 06:51:36.242#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1497#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:30.235434] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624397] Exit status 0 (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624482] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624526] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624533] Uploading droplet... (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.649282] Uploaded build artifacts cache (221B) (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:42.543209] Creating droplet for app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d (STDOUT, API)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:44.613278] Uploaded droplet (60.2M) (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:44.670977] Uploading complete (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:45.679354] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:45.679418] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:46.524#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1502#
+[PollStageAppStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:45.717845] Staging complete for build 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, API)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:50:56.976786] Updated app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d ({"lifecycle" => {"data" => {"buildpacks" => ["nodejs_buildpack"]}, "type" => "buildpack"}}) (STDOUT, API)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:50:57.074553] Updating process: "web" (STDOUT, API)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:06.148131] Uploading app package for app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d (STDOUT, API)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:06.314494] Updated app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d ({"environment_variables" => "[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:16.742931] Creating build for app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d (STDOUT, API)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:17.240103] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:17.284281] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:17.284389] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:18.021162] Security group rules were updated (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:18.076947] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.205041] Downloading build artifacts cache... (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.205754] Downloading app package... (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.281921] Downloaded build artifacts cache (225B) (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.572029] Downloaded app package (2.4M) (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.719426] -----> Nodejs Buildpack version 1.9.7 (STDOUT, STG)#
+#2026 11 17 06:51:58.395#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.834047] -----> Bootstrapping python (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.834287] -----> Installing python 3.13.18 (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:19.834316] Copy [/tmp/buildpacks/e692b33510ec4c3a/dependencies/19ba5035b2de64a4656a3359a44a66ca/python_3.13.18_linux_x64_cflinuxfs4_86d7d323.tgz] (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855455] -----> Installing binaries (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855561] engines.node (package.json): ^24 (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855588] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855687] -----> Installing node 24.22.1 (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:24.855966] Copy [/tmp/buildpacks/e692b33510ec4c3a/dependencies/81943ffafa7adf07ff6ffc6aaa402b41/node_24.22.1_linux_x64_cflinuxfs4_e062d949.tgz] (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:27.838812] Using default npm version: 11.19.1 (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:27.838849] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:27.839061] Copy [/tmp/buildpacks/e692b33510ec4c3a/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.334766] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.334801] -----> Creating runtime environment (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337319] NODE_ENV=production (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337355] NODE_HOME=/tmp/contents1019461730/deps/0/node (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337360] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337363] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337367] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337372] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337375] -----> Building dependencies (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337377] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.337388] Rebuilding any native modules (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:28.962395] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.034147] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.584417] up to date in 453ms (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.584452] 4 packages are looking for funding (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:29.584458] run `npm fund` for details (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:30.235434] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624397] Exit status 0 (STDOUT, STG)#
+#2026 11 17 06:51:58.396#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624482] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624526] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.624533] Uploading droplet... (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:41.649282] Uploaded build artifacts cache (221B) (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:42.543209] Creating droplet for app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d (STDOUT, API)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:44.613278] Uploaded droplet (60.2M) (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:44.670977] Uploading complete (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:45.679354] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:45.679418] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:45.717845] Staging complete for build 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, API)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:46.597464] Updated app with guid 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d ({droplet_guid: "5e1d45a5-f27f-455a-aaa8-e0507412e867"}) (STDOUT, API)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:47.080615] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 creating container for instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:48.088684] Security group rules were updated (STDOUT, CELL)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:48.181300] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully created container for instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:48.685991] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 6fca2d5d-8cea-4b82-a187-8fe622c06712 (STDOUT, STG)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:54.412643] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:54.661840] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.229166] > start (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.229199] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424138] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424919] { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424937] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424941] { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424945] "name": "purchase-requisition-masterdata-db", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.397#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424954] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424959] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424961] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424964] "schema": "2EEFA85AB34C454CB253F157EA45E626", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424967] "database_id": "d5321ba2-bfc3-4fe9-a45d-93a81204fed1", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424971] "user": "2EEFA85AB34C454CB253F157EA45E626_2K5ZC5EZFH53EUP985S1HZXXJ_RT", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424975] "hdi_user": "2EEFA85AB34C454CB253F157EA45E626_2K5ZC5EZFH53EUP985S1HZXXJ_DT" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424977] }, (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424982] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424986] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424989] "database", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424992] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424994] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.424997] } (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.425] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:55.425002] } (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.029051] @sap/hdi-deploy, version 5.7.0 (mode default), server version 4.00.000.00.1791475825 (4.0.0.0), cloud version 2026.28.10, node version 24.22.1, HDI version 1017, container API version 1008 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.029192] Deployment started at 2026-11-17 06:51:56 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.029463] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.050934] No ignore file at /home/vcap/app/.hdiignore. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.051540] Collecting files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.059329] Collecting files... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.059617] 3 directories collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.059801] 38 files collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.059898] 0 reusable modules collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.398#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.059946] Target service: purchase-requisition-masterdata-db (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.260911] Previous build with request ID 237 finished at 2026-11-17T06:38:09.357 with status Canceled and message: Make failed (5 errors, 0 warnings): tried to deploy 1 files, undeploy 0 files, redeploy 3 dependent files. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.260961] Processing revoke files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.261185] Processing revoke files... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.261458] Processing grants files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.261791] Processing grants files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.265925] Preprocessing files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.266285] Preprocessing files... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.266415] Connecting to the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.357061] Connecting to the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 88ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.357098] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.482048] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 128ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.482122] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.703985] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.841623] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.841658] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.841926] Writing 4 items (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.997416] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.997522] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 515ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.998182] added files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.998311] modified files: [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.998318] "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.998322] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.998416] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.998644] 1 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.998999] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.399#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.999234] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.999244] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:56.999584] Deploying to the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.496761] Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.496962] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.497065] Migrating libraries... ok (0s 12ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.497134] Making... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.497777] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.497903] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498027] Preparing the make transaction... ok (0s 34ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498095] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498152] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... ok (0s 9ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498209] Preparing... ok (0s 51ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498298] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498389] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498456] Expanding... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498554] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498618] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498715] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498789] Precompiling... ok (0s 13ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.498903] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499003] Merging... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499073] Calculating dependencies... ok (0s 27ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499196] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499271] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499363] Processing work list... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499446] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.400#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499565] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... ok (0s 15ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499641] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499691] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499770] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... ok (0s 11ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499902] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.499955] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 1ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500028] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500099] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500163] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500254] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500739] Error: com.sap.hana.di.tabledata: "procurement.masterdata-ApprovalMatrix.csv": invalid data in record 10 [8251538] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500911] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500932] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.500936] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.501028] Error: com.sap.hana.di.tabledata: CSV record 10 has more than the expected 15 fields [8204001] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.501057] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.501117] Error: com.sap.hana.di.tabledata: Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... failed [8212145] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.501153] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 9ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.501212] Error: Worker 3 has encountered an error; all remaining jobs will be canceled [8214600] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.501250] Error: Processing work list... failed [8212102] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.501317] Make failed (5 errors, 0 warnings): tried to deploy 1 files, undeploy 0 files, redeploy 3 dependent files (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.503584] Deployment ended at 2026-11-17 06:51:57 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.503725] Error: Making... failed [8211605] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.503739] Error: Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... failed [8214168] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.503743] Deployment to container 2EEFA85AB34C454CB253F157EA45E626 failed - error: HDI make failed [Deployment ID: none]. (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.503826] Error: HDI make failed (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.505058] (2s 219ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:51:58.401#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.528589] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.402#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.528627] npm notice New major version of npm available! 11.19.1 -> 12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.402#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.528636] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.402#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.528640] npm notice To update run: npm install -g npm@12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.402#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.528642] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:51:58.402#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-7#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:57.622122] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:06.576#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:58.883281] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:52:06.576#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:58.883317] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:52:06.576#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-1#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:01.309726] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:58.883281] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 stopping instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:51:58.883317] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 destroying container for instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:01.309726] Cell 77283d80-dfa7-40ba-ba4e-265aef112085 successfully destroyed container for instance 79e0b469-b29e-4a12-9915-5cf79c41f6a9 (STDOUT, CELL)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:07.669635] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:08.589111] Security group rules were updated (STDOUT, CELL)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:08.698844] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:14.973650] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.221681] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.707340] > start (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.707376] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.902709] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903234] { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903259] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903262] { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903268] "name": "purchase-requisition-masterdata-db", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903275] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903278] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903281] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903284] "schema": "2EEFA85AB34C454CB253F157EA45E626", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903287] "database_id": "d5321ba2-bfc3-4fe9-a45d-93a81204fed1", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903291] "user": "2EEFA85AB34C454CB253F157EA45E626_2K5ZC5EZFH53EUP985S1HZXXJ_RT", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903300] "hdi_user": "2EEFA85AB34C454CB253F157EA45E626_2K5ZC5EZFH53EUP985S1HZXXJ_DT" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903305] }, (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903307] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903310] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903312] "database", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903314] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903317] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903336] } (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903338] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:15.903340] } (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.427299] @sap/hdi-deploy, version 5.7.0 (mode default), server version 4.00.000.00.1791475825 (4.0.0.0), cloud version 2026.28.10, node version 24.22.1, HDI version 1017, container API version 1008 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.427391] Deployment started at 2026-11-17 06:52:16 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.427792] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.449937] No ignore file at /home/vcap/app/.hdiignore. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.450513] Collecting files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.458768] Collecting files... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.458888] 3 directories collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.458949] 38 files collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.459023] 0 reusable modules collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.459162] Target service: purchase-requisition-masterdata-db (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.622946] Previous build with request ID 242 finished at 2026-11-17T06:51:57.456 with status Canceled and message: Make failed (5 errors, 0 warnings): tried to deploy 1 files, undeploy 0 files, redeploy 3 dependent files. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.623099] Processing revoke files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.623250] Processing revoke files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.623446] Processing grants files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.623614] Processing grants files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.626644] Preprocessing files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.626947] Preprocessing files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:16.760#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.627152] Connecting to the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.727107] Connecting to the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 100ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.728026] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.854386] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 126ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.854530] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.140781] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.317737] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.317773] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.317971] Writing 4 items (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.541724] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.541929] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 687ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.542918] added files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543007] modified files: [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543027] "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543030] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543032] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543086] 1 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543364] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543528] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543618] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543706] Deploying to the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.096460] Error: com.sap.hana.di.tabledata: "procurement.masterdata-ApprovalMatrix.csv": invalid data in record 10 [8251538] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.697#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.096562] Error: com.sap.hana.di.tabledata: CSV record 10 has more than the expected 15 fields [8204001] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098686] Error: com.sap.hana.di.tabledata: Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... failed [8212145] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098718] Error: Worker 3 has encountered an error; all remaining jobs will be canceled [8214600] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098723] Error: Processing work list... failed [8212102] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098727] Error: Making... failed [8211605] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098734] Error: Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... failed [8214168] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098739] Deployment to container 2EEFA85AB34C454CB253F157EA45E626 failed - error: HDI make failed [Deployment ID: none]. (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098759] Error: HDI make failed (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105718] Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105746] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105751] Migrating libraries... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105754] Making... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105757] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105759] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105774] Preparing the make transaction... ok (0s 22ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105777] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105782] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105784] Preparing... ok (0s 32ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105787] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105790] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105793] Expanding... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105795] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105799] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105803] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105805] Precompiling... ok (0s 14ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105808] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105811] Merging... ok (0s 5ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105813] Calculating dependencies... ok (0s 26ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105817] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105821] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105825] Processing work list... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105827] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105830] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... ok (0s 15ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105832] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105835] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105837] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... ok (0s 14ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105840] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105842] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105844] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105850] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105854] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105859] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105861] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105864] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105867] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105870] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105873] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 11ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105875] Make failed (5 errors, 0 warnings): tried to deploy 1 files, undeploy 0 files, redeploy 3 dependent files (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105878] Deployment ended at 2026-11-17 06:52:18 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105881] (2s 334ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124361] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124390] npm notice New major version of npm available! 11.19.1 -> 12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124395] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124398] npm notice To update run: npm install -g npm@12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124401] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.213632] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:19.412977] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:19.413026] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:26.698#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-14#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:23.403117] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.727107] Connecting to the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 100ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.728026] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.854386] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 126ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:16.854530] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.140781] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.317737] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.317773] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.317971] Writing 4 items (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.541724] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.541929] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 687ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.542918] added files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543007] modified files: [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543027] "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543030] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543032] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543086] 1 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543364] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543528] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543618] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:17.543706] Deploying to the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.096460] Error: com.sap.hana.di.tabledata: "procurement.masterdata-ApprovalMatrix.csv": invalid data in record 10 [8251538] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.096562] Error: com.sap.hana.di.tabledata: CSV record 10 has more than the expected 15 fields [8204001] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098686] Error: com.sap.hana.di.tabledata: Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... failed [8212145] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098718] Error: Worker 3 has encountered an error; all remaining jobs will be canceled [8214600] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098723] Error: Processing work list... failed [8212102] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098727] Error: Making... failed [8211605] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098734] Error: Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... failed [8214168] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098739] Deployment to container 2EEFA85AB34C454CB253F157EA45E626 failed - error: HDI make failed [Deployment ID: none]. (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.098759] Error: HDI make failed (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105718] Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105746] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105751] Migrating libraries... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105754] Making... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105757] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105759] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105774] Preparing the make transaction... ok (0s 22ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105777] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105782] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105784] Preparing... ok (0s 32ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105787] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105790] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105793] Expanding... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105795] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105799] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105803] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105805] Precompiling... ok (0s 14ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105808] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105811] Merging... ok (0s 5ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105813] Calculating dependencies... ok (0s 26ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105817] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105821] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105825] Processing work list... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105827] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105830] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... ok (0s 15ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105832] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105835] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105837] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... ok (0s 14ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105840] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105842] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105844] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105850] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105854] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105859] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105861] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105864] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105867] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105870] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105873] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 11ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105875] Make failed (5 errors, 0 warnings): tried to deploy 1 files, undeploy 0 files, redeploy 3 dependent files (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105878] Deployment ended at 2026-11-17 06:52:18 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.982#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.105881] (2s 334ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124361] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124390] npm notice New major version of npm available! 11.19.1 -> 12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124395] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124398] npm notice To update run: npm install -g npm@12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.124401] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:18.213632] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:19.412977] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:19.413026] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:23.403117] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 106f2511-0973-4588-8077-1902a871023a (STDOUT, CELL)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:29.692367] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 7238ceaa-e4e9-4ad1-9d35-82b95947d984 (STDOUT, CELL)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:30.474913] Security group rules were updated (STDOUT, CELL)#
+#2026 11 17 06:52:36.983#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-21#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:30.530376] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 7238ceaa-e4e9-4ad1-9d35-82b95947d984 (STDOUT, CELL)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:38.255106] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:38.508009] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.064394] > start (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.064430] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.268159] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.268992] { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269015] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269018] { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269022] "name": "purchase-requisition-masterdata-db", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269026] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269033] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269035] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269038] "schema": "2EEFA85AB34C454CB253F157EA45E626", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269044] "database_id": "d5321ba2-bfc3-4fe9-a45d-93a81204fed1", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269049] "user": "2EEFA85AB34C454CB253F157EA45E626_2K5ZC5EZFH53EUP985S1HZXXJ_RT", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269054] "hdi_user": "2EEFA85AB34C454CB253F157EA45E626_2K5ZC5EZFH53EUP985S1HZXXJ_DT" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.061#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269057] }, (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269059] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269062] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269064] "database", (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269067] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269069] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269072] } (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269074] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.269077] } (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.759512] @sap/hdi-deploy, version 5.7.0 (mode default), server version 4.00.000.00.1791475825 (4.0.0.0), cloud version 2026.28.10, node version 24.22.1, HDI version 1017, container API version 1008 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.759701] Deployment started at 2026-11-17 06:52:39 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.759904] Using hdb@2.30.1 for connection (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.784562] No ignore file at /home/vcap/app/.hdiignore. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.784972] Collecting files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.791032] Collecting files... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.791052] 3 directories collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.791055] 38 files collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.791058] 0 reusable modules collected (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.791062] Target service: purchase-requisition-masterdata-db (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.958709] Previous build with request ID 247 finished at 2026-11-17T06:52:18.046 with status Canceled and message: Make failed (5 errors, 0 warnings): tried to deploy 1 files, undeploy 0 files, redeploy 3 dependent files. (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.958807] Processing revoke files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.959018] Processing revoke files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.959218] Processing grants files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.960449] Processing grants files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.962264] Preprocessing files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.962541] Preprocessing files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:39.962692] Connecting to the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.034134] Connecting to the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 71ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.034243] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.160103] Locking the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 126ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.160336] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.354519] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.488655] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.488744] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.488849] Writing 4 items (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.659646] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.659756] Synchronizing files with the container "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 499ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660154] added files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660248] modified files: [ (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660277] "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660285] ] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660295] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660396] 1 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660709] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660864] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.660874] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:40.661030] Deploying to the container "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133040] Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133241] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133328] Migrating libraries... ok (0s 12ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133343] Making... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133367] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133370] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133376] Preparing the make transaction... ok (0s 30ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133381] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133384] Adding "src/gen/data/procurement.masterdata-ApprovalMatrix.csv" for deploy... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133523] Preparing... ok (0s 43ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133594] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133608] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133611] Expanding... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133690] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133747] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133759] Precompiling "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133761] Precompiling... ok (0s 13ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133766] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133769] Merging... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133772] Calculating dependencies... ok (0s 27ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133821] Error: com.sap.hana.di.tabledata: "procurement.masterdata-ApprovalMatrix.csv": invalid data in record 10 [8251538] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133829] Error: com.sap.hana.di.tabledata: CSV record 10 has more than the expected 15 fields [8204001] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133841] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133843] Error: com.sap.hana.di.tabledata: Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... failed [8212145] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133846] Error: Worker 2 has encountered an error; all remaining jobs will be canceled [8214600] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133846] Disabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133849] Processing work list... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133850] Error: Processing work list... failed [8212102] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133852] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133855] Undeploying "src/gen/procurement.masterdata.ApprovalMatrix.matrixCode.hdbindex"... ok (0s 13ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133858] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133860] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133866] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... ok (0s 13ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133869] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133872] Undeploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 2ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133875] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133879] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.csv"... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133929] Error: Making... failed [8211605] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.133954] Deploying "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134018] Error: Starting make in the container "2EEFA85AB34C454CB253F157EA45E626" with 1 files to deploy, 0 files to undeploy... failed [8214168] (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134096] Expanded from "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134110] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134114] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134117] at "src/gen/data/procurement.masterdata-ApprovalMatrix.hdbtabledata$0.expand" (0:0) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134120] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134125] Enabling table replication for the container schema "2EEFA85AB34C454CB253F157EA45E626"... ok (0s 9ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134127] Make failed (5 errors, 0 warnings): tried to deploy 1 files, undeploy 0 files, redeploy 3 dependent files (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.134834] Deployment to container 2EEFA85AB34C454CB253F157EA45E626 failed - error: HDI make failed [Deployment ID: none]. (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.135551] Deployment ended at 2026-11-17 06:52:41 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.135588] Error: HDI make failed (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.136173] (2s 14ms) (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.159042] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.159080] npm notice New major version of npm available! 11.19.1 -> 12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.159085] npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.159095] npm notice To update run: npm install -g npm@12.2.2 (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.159098] npm notice (STDERR, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:41.247048] Exit status 1 (STDOUT, APP/TASK/deploy)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:42.431387] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 7238ceaa-e4e9-4ad1-9d35-82b95947d984 (STDOUT, CELL)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:42.431434] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 7238ceaa-e4e9-4ad1-9d35-82b95947d984 (STDOUT, CELL)#
+#2026 11 17 06:52:47.062#Z#DEBUG#3676e354-e253-11f1-a644-eeee0a9d19b9.purchase-requisition-masterdata-db-deployer#flowable-async-job-executor-thread-38#
+[PollExecuteTaskStatusExecution] 1c9d9c1f-c321-4c63-ad62-d1b4b050cb5d [2026-11-17T06:52:45.998100] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 7238ceaa-e4e9-4ad1-9d35-82b95947d984 (STDOUT, CELL)#
